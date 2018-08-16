@@ -1,0 +1,36 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:832px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1969_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:816px;
+  height:605px;
+}
+#u1969 {
+  position:absolute;
+  left:16px;
+  top:-38px;
+  width:816px;
+  height:605px;
+}
+#u1970 {
+  position:absolute;
+  left:2px;
+  top:294px;
+  width:812px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

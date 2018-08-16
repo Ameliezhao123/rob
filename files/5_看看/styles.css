@@ -1,0 +1,351 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:360px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u899_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:634px;
+}
+#u899 {
+  position:absolute;
+  left:1px;
+  top:1px;
+  width:358px;
+  height:634px;
+}
+#u900 {
+  position:absolute;
+  left:2px;
+  top:309px;
+  width:354px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u902 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u903_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:359px;
+  height:55px;
+}
+#u903 {
+  position:absolute;
+  left:1px;
+  top:580px;
+  width:359px;
+  height:55px;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  color:#000000;
+}
+#u904 {
+  position:absolute;
+  left:2px;
+  top:20px;
+  width:355px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u905 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u906_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:26px;
+}
+#u906 {
+  position:absolute;
+  left:313px;
+  top:589px;
+  width:25px;
+  height:26px;
+  font-size:48px;
+  color:#989898;
+}
+#u907 {
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u908_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  height:13px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le Normal', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#989898;
+  text-align:center;
+}
+#u908 {
+  position:absolute;
+  left:315px;
+  top:615px;
+  width:21px;
+  height:13px;
+  font-family:'Microsoft Tai Le Normal', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#989898;
+  text-align:center;
+}
+#u909 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  white-space:nowrap;
+}
+#u910_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:26px;
+}
+#u910 {
+  position:absolute;
+  left:42px;
+  top:589px;
+  width:25px;
+  height:26px;
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:500;
+  font-style:normal;
+  font-size:48px;
+  color:#108EE9;
+}
+#u911 {
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u912_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:19px;
+  height:13px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le Normal', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#108EE9;
+  text-align:center;
+}
+#u912 {
+  position:absolute;
+  left:45px;
+  top:615px;
+  width:19px;
+  height:13px;
+  font-family:'Microsoft Tai Le Normal', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#108EE9;
+  text-align:center;
+}
+#u913 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:19px;
+  white-space:nowrap;
+}
+#u914 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u915_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:26px;
+}
+#u915 {
+  position:absolute;
+  left:137px;
+  top:589px;
+  width:25px;
+  height:26px;
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:500;
+  font-style:normal;
+  font-size:48px;
+  color:#989898;
+}
+#u916 {
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u917_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  height:13px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le Normal', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#989898;
+  text-align:center;
+}
+#u917 {
+  position:absolute;
+  left:137px;
+  top:615px;
+  width:21px;
+  height:13px;
+  font-family:'Microsoft Tai Le Normal', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#989898;
+  text-align:center;
+}
+#u918 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  white-space:nowrap;
+}
+#u919 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u920_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  height:13px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le Normal', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#989898;
+  text-align:center;
+}
+#u920 {
+  position:absolute;
+  left:232px;
+  top:617px;
+  width:21px;
+  height:13px;
+  font-family:'Microsoft Tai Le Normal', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#989898;
+  text-align:center;
+}
+#u921 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  white-space:nowrap;
+}
+#u922_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:22px;
+  height:28px;
+}
+#u922 {
+  position:absolute;
+  left:231px;
+  top:587px;
+  width:22px;
+  height:28px;
+}
+#u923 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:18px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
